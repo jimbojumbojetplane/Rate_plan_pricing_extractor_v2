@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-17T14:56:39.224587",
+    "total_brands": 1,
+    "brands": [
+      "virgin"
+    ],
+    "record_count": 3,
+    "event_id": "20251117_145541"
+  },
+  "brands": {
+    "virgin": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/virgin/output/virgin_llm_output_all_plans_20251117_145541.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "40GB",
+              "regularPrice": null,
+              "currentPrice": "$50 per month",
+              "bundledPrice": null,
+              "dataAmount": "40GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "10GB bonus data"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Internet Members only",
+              "regularPrice": null,
+              "currentPrice": "$40 per month",
+              "bundledPrice": null,
+              "dataAmount": "50GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Basic",
+              "regularPrice": null,
+              "currentPrice": "$19 per month",
+              "bundledPrice": null,
+              "dataAmount": "3GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    }
+  },
+  "records": [
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "40GB",
+      "price": "$50 per month",
+      "regular_price": "",
+      "data": "40GB",
+      "network": "",
+      "features": [
+        "10GB bonus data"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "10GB bonus data"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "Internet Members only",
+      "price": "$40 per month",
+      "regular_price": "",
+      "data": "50GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "Basic",
+      "price": "$19 per month",
+      "regular_price": "",
+      "data": "3GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    }
+  ]
+}
