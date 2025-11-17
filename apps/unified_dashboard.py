@@ -362,37 +362,45 @@ def render_tier_header(tier_name: str, plan_count: int, min_price: Optional[floa
 
 def render_plan_card(plan: Dict, border_color: str):
     """Render a single plan card."""
+    # Truncate plan name if too long
+    plan_name = plan['planName']
+    if len(plan_name) > 25:
+        plan_name = plan_name[:22] + "..."
+    
     st.markdown(
         f"""
         <div style="
             background: #f8f9fa;
             border-left: 3px solid {border_color};
             border-radius: 5px;
-            padding: 12px;
-            margin-bottom: 10px;
+            padding: 10px;
+            margin-bottom: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         ">
             <div style="
                 font-weight: bold;
-                font-size: 13px;
+                font-size: 12px;
                 color: #2d3748;
                 margin-bottom: 4px;
-            ">{plan['planName']}</div>
+                line-height: 1.3;
+            ">{plan_name}</div>
             <div style="
-                font-size: 11px;
+                font-size: 10px;
                 color: #718096;
                 font-style: italic;
-                margin-bottom: 6px;
+                margin-bottom: 4px;
             ">Mobility Only - BYOD</div>
             <div style="
                 color: #5D54A2;
-                font-size: 15px;
+                font-size: 13px;
                 font-weight: bold;
                 margin-bottom: 4px;
             ">{plan['dataAmount'] or 'No Data'}</div>
             <div style="
                 color: #36366D;
-                font-size: 14px;
+                font-size: 12px;
                 font-weight: bold;
             ">{plan['priceStr']}</div>
         </div>
@@ -498,29 +506,30 @@ def render_comparison_grid(json_path: Path):
         # Render tier header
         render_tier_header(tier_name, len(tier_plans), min_tier_price, max_tier_price)
         
-        # Render brand columns
-        cols = st.columns(7)
-        config = TIERS[tier_name]
-        
-        for idx, brand in enumerate(BRANDS):
-            with cols[idx]:
-                # Brand header
-                st.markdown(
-                    f'<div class="brand-header">{brand}</div>',
-                    unsafe_allow_html=True
-                )
-                
-                # Plans for this brand in this tier
-                brand_plans = organized_plans[tier_name][brand]
-                
-                if brand_plans:
-                    for plan in brand_plans:
-                        render_plan_card(plan, config["border_color"])
-                else:
+        # Render brand columns - use container to ensure proper width
+        with st.container():
+            cols = st.columns(7, gap="small")
+            config = TIERS[tier_name]
+            
+            for idx, brand in enumerate(BRANDS):
+                with cols[idx]:
+                    # Brand header
                     st.markdown(
-                        '<div class="no-plans">No plans in this tier</div>',
+                        f'<div class="brand-header">{brand}</div>',
                         unsafe_allow_html=True
                     )
+                    
+                    # Plans for this brand in this tier
+                    brand_plans = organized_plans[tier_name][brand]
+                    
+                    if brand_plans:
+                        for plan in brand_plans:
+                            render_plan_card(plan, config["border_color"])
+                    else:
+                        st.markdown(
+                            '<div class="no-plans">No plans in this tier</div>',
+                            unsafe_allow_html=True
+                        )
         
         # Spacing between tiers
         st.markdown("<br>", unsafe_allow_html=True)
@@ -607,20 +616,33 @@ def main():
     st.markdown(
         """
         <style>
-        .stContainer {
-            padding: 0;
+        /* Main container - ensure full width and no overflow */
+        .main .block-container {
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            max-width: 100%;
         }
+        
+        /* Ensure content doesn't overflow */
+        .stApp {
+            overflow-x: auto;
+        }
+        
+        /* Brand header styling */
         .brand-header {
             color: #141E41;
             font-weight: bold;
-            font-size: 16px;
+            font-size: 14px;
             text-transform: uppercase;
             margin-bottom: 15px;
             text-align: center;
-            padding: 10px;
+            padding: 8px;
             background: #f8f9fa;
             border-radius: 5px;
+            word-wrap: break-word;
         }
+        
+        /* No plans message */
         .no-plans {
             color: #718096;
             font-style: italic;
@@ -628,6 +650,19 @@ def main():
             text-align: center;
             padding: 20px;
             min-height: 50px;
+        }
+        
+        /* Plan cards - ensure they fit in columns */
+        div[data-testid="column"] {
+            min-width: 0;
+        }
+        
+        /* Responsive adjustments for smaller screens */
+        @media (max-width: 1400px) {
+            .brand-header {
+                font-size: 12px;
+                padding: 6px;
+            }
         }
         </style>
         """,
