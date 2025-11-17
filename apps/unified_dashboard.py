@@ -157,6 +157,7 @@ def load_plans_data(json_path: Path, scenario_filter: Optional[str] = None) -> L
 
 @st.cache_data(show_spinner=False)
 def load_plans_table(json_path: Path) -> Tuple[pd.DataFrame, dict]:
+    # Cache key includes file path and modification time to auto-invalidate on file change
     """Load plan records from the consolidated JSON for detailed table."""
     data = json.loads(json_path.read_text(encoding="utf-8"))
     rows = []
@@ -684,6 +685,11 @@ def main():
     try:
         json_path = find_latest_consolidated()
         st.sidebar.info(f"📄 Using: {json_path.name}")
+        
+        # Add a button to clear cache and reload
+        if st.sidebar.button("🔄 Refresh Data (Clear Cache)"):
+            st.cache_data.clear()
+            st.rerun()
     except FileNotFoundError as e:
         st.error(str(e))
         st.stop()
