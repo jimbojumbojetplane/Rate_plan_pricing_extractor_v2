@@ -201,10 +201,12 @@ class UnifiedPipeline:
         # Run final consolidation
         print("\n  🔄 Running final consolidation...")
         try:
-            # Set up environment variables for consolidation script
-            env = {**os.environ, "PIPELINE_EVENT_ID": self.event_id}
+            # Update environment variables for consolidation script
+            env['PIPELINE_EVENT_ID'] = self.event_id
             if self.auto_push_to_github:
                 env["AUTO_PUSH_TO_GITHUB"] = "true"
+            else:
+                env.pop("AUTO_PUSH_TO_GITHUB", None)  # Remove if not enabled
             
             result = subprocess.run(
                 [sys.executable, "scripts/consolidate_llm_outputs.py"],
