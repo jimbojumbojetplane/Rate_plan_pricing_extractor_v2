@@ -438,6 +438,7 @@ class UnifiedPipeline:
         
         scenarios = {}
         file_map = {}  # Track files by scenario name to get latest
+        file_timestamps = {}  # Track file modification times to prefer newer files
         
         # Find all stripped HTML files
         for html_file in sorted(stripped_dir.glob(f"{carrier}_*_stripped_*.html"), reverse=True):
@@ -449,11 +450,12 @@ class UnifiedPipeline:
             stem_clean = re.sub(r'_\d{8}_\d{6}$', '', stem)
             parts = stem_clean.split('_', 1)
             if len(parts) == 2:
-                scenario_name = parts[1]
+                original_scenario_name = parts[1]
             else:
-                scenario_name = 'unknown'
+                original_scenario_name = 'unknown'
             
             # Map legacy scenario names to new ones
+            scenario_name = original_scenario_name
             if carrier in legacy_mappings and scenario_name in legacy_mappings[carrier]:
                 scenario_name = legacy_mappings[carrier][scenario_name]
             
@@ -462,9 +464,31 @@ class UnifiedPipeline:
             if valid_scenarios and scenario_name not in valid_scenarios:
                 continue
             
+            # Get file modification time
+            file_mtime = html_file.stat().st_mtime
+            
             # Use only the latest file per scenario
+            # If we already have a file for this scenario, only replace it if this one is newer
+            # OR if this file has the correct scenario name (not legacy) and the existing one is legacy
             if scenario_name not in file_map:
                 file_map[scenario_name] = html_file
+                file_timestamps[scenario_name] = file_mtime
+            else:
+                # Check if we should replace:
+                # 1. This file is newer, OR
+                # 2. This file has the correct scenario name (not legacy) and existing is legacy
+                existing_file = file_map[scenario_name]
+                existing_is_legacy = existing_file.stem.startswith(f"{carrier}_single_pricing")
+                current_is_legacy = html_file.stem.startswith(f"{carrier}_single_pricing")
+                
+                should_replace = (
+                    file_mtime > file_timestamps[scenario_name] or  # Newer file
+                    (not current_is_legacy and existing_is_legacy)  # Prefer non-legacy filename
+                )
+                
+                if should_replace:
+                    file_map[scenario_name] = html_file
+                    file_timestamps[scenario_name] = file_mtime
         
         # Load only the latest file for each scenario
         for scenario_name, html_file in file_map.items():
