@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-17T19:12:22.794530",
+    "total_brands": 1,
+    "brands": [
+      "virgin"
+    ],
+    "record_count": 6,
+    "event_id": "20251117_191150"
+  },
+  "brands": {
+    "virgin": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/virgin/output/virgin_llm_output_all_plans_20251117_191150.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "10GB",
+              "regularPrice": null,
+              "currentPrice": "$45 per month",
+              "bundledPrice": null,
+              "dataAmount": "10GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "40GB",
+              "regularPrice": null,
+              "currentPrice": "$50 per month",
+              "bundledPrice": null,
+              "dataAmount": "40GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "60GB",
+              "regularPrice": null,
+              "currentPrice": "$55 per month",
+              "bundledPrice": null,
+              "dataAmount": "60GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Talk and Text",
+              "regularPrice": null,
+              "currentPrice": "$30 per month",
+              "bundledPrice": null,
+              "dataAmount": "pay per use",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "250MB",
+              "regularPrice": null,
+              "currentPrice": "$19 per month",
+              "bundledPrice": null,
+              "dataAmount": "250MB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "3GB",
+              "regularPrice": null,
+              "currentPrice": "$39 per month",
+              "bundledPrice": null,
+              "dataAmount": "3GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    }
+  },
+  "records": [
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "10GB",
+      "price": "$45 per month",
+      "regular_price": "",
+      "data": "10GB",
+      "network": "",
+      "features": [
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-wide"
+      ],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "40GB",
+      "price": "$50 per month",
+      "regular_price": "",
+      "data": "40GB",
+      "network": "",
+      "features": [
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-wide"
+      ],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "60GB",
+      "price": "$55 per month",
+      "regular_price": "",
+      "data": "60GB",
+      "network": "",
+      "features": [
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-wide"
+      ],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "Talk and Text",
+      "price": "$30 per month",
+      "regular_price": "",
+      "data": "pay per use",
+      "network": "",
+      "features": [
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-wide"
+      ],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "250MB",
+      "price": "$19 per month",
+      "regular_price": "",
+      "data": "250MB",
+      "network": "",
+      "features": [
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-wide"
+      ],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "3GB",
+      "price": "$39 per month",
+      "regular_price": "",
+      "data": "3GB",
+      "network": "",
+      "features": [
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-wide"
+      ],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    }
+  ]
+}
