@@ -698,7 +698,11 @@ def main():
     # File path - find latest consolidated file
     try:
         json_path = find_latest_consolidated()
-        st.sidebar.info(f"📄 Using: {json_path.name}")
+        
+        # Show file info with timestamp
+        match = re.search(r'(\d{8}_\d{6})', json_path.name)
+        timestamp = match.group(1) if match else "unknown"
+        st.sidebar.info(f"📄 **Current File:**\n`{json_path.name}`\n\n🕐 **Timestamp:** {timestamp}")
         
         # Add a button to clear cache and reload
         if st.sidebar.button("🔄 Refresh Data (Clear Cache)"):
