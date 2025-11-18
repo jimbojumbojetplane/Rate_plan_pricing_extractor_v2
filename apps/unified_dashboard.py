@@ -51,17 +51,31 @@ CONSOLIDATED_DIR = Path("data/consolidated")
 
 
 def find_latest_consolidated() -> Path:
-    """Return the most recent final_consolidated_plans_*.json file."""
+    """Return the most recent final_consolidated_plans_*.json file.
+    
+    Uses filename timestamp (YYYYMMDD_HHMMSS) for sorting to ensure consistency
+    across different environments (local, GitHub, Streamlit Cloud).
+    """
     # Check both consolidated directory and root
     root_files = list(Path(".").glob("final_consolidated_plans_*.json"))
     dir_files = list(CONSOLIDATED_DIR.glob("final_consolidated_plans_*.json")) if CONSOLIDATED_DIR.exists() else []
     
-    all_candidates = sorted(root_files + dir_files, reverse=True, key=lambda p: p.stat().st_mtime if p.exists() else 0)
+    all_candidates = root_files + dir_files
     
     if not all_candidates:
         raise FileNotFoundError(
             f"No consolidated files found in {CONSOLIDATED_DIR} or root directory"
         )
+    
+    # Extract timestamp from filename and sort by it (most recent first)
+    # Format: final_consolidated_plans_YYYYMMDD_HHMMSS.json
+    def extract_timestamp(path: Path) -> str:
+        match = re.search(r'(\d{8}_\d{6})', path.name)
+        return match.group(1) if match else "00000000_000000"
+    
+    # Sort by timestamp in filename (descending - most recent first)
+    all_candidates.sort(key=extract_timestamp, reverse=True)
+    
     return all_candidates[0]
 
 
