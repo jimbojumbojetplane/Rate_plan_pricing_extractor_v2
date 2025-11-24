@@ -1,0 +1,5228 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-23T17:45:58.941577",
+    "total_brands": 6,
+    "brands": [
+      "bell",
+      "fido",
+      "freedom",
+      "koodo",
+      "rogers",
+      "virgin"
+    ],
+    "record_count": 88,
+    "event_id": "20251123_172521"
+  },
+  "brands": {
+    "bell": {
+      "scenarios": {
+        "2_line_bundled": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$55 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "60 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$60 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "100 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "200 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in the U.S",
+                "Unlimited minutes for calls from Canada to 27 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "When you bundle with Internet. Includes Autopay credit. 12",
+                "Average price per line for 2 lines When you bundle with Internet. Includes Autopay credit. 12",
+                "Average price per line for 3 lines When you bundle with Internet. Includes Autopay credit. 12",
+                "Average price per line for 4 lines When you bundle with Internet. Includes Autopay credit. 12"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$90 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Canada and 65 other countries",
+                "countries": "Canada, United States, 65 other countries",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "250 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [
+                "Roaming in 65 other countries"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in 65 other countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "When you bundle with Internet. Includes Autopay credit. 12",
+                "Average price per line for 2 lines When you bundle with Internet. Includes Autopay credit. 12",
+                "Average price per line for 3 lines When you bundle with Internet. Includes Autopay credit. 12",
+                "Average price per line for 4 lines When you bundle with Internet. Includes Autopay credit. 12"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "4_line_mobile_only": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$85 per month",
+              "bundledPrice": null,
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data at our fastest available speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in the U.S",
+                "Unlimited minutes for calls from Canada to 27 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$105 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Roaming in Canada and 65 other countries",
+                "countries": "65 countries",
+                "classification": "Canada+US+65 countries"
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [
+                "Roaming in 65 countries including the U.S."
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in 65 other countries",
+                "Unlimited minutes for calls from Canada to 65 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "3_line_bundled": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$55 per month",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Canada roaming",
+                "countries": "Canada",
+                "classification": "Canada Only"
+              },
+              "speedFeatures": [
+                "60 GB of data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$60 per month",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Canada roaming",
+                "countries": "Canada",
+                "classification": "Canada Only"
+              },
+              "speedFeatures": [
+                "100 GB of data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$70 per month",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Canada roaming",
+                "countries": "Canada, United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [
+                "200 GB of data at our fastest available speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and the U.S"
+              ],
+              "otherFeatures": [
+                "Crave Standard With Ads",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$90 per month",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Canada and international roaming",
+                "countries": "Canada and 65 other countries",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "250 GB of data at our fastest available speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in 65 other countries"
+              ],
+              "otherFeatures": [
+                "Crave Standard With Ads",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide calling",
+                "Unlimited Canada texting"
+              ],
+              "otherFeatures": [
+                "Hotspot capabilities",
+                "SD video streaming"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide calling",
+                "Unlimited Canada texting"
+              ],
+              "otherFeatures": [
+                "Hotspot capabilities",
+                "SD video streaming"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$85 per month",
+              "bundledPrice": null,
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data up to fastest available speed; throttle to 512 Kbps after 200 GB"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide calling and texting",
+                "Unlimited minutes for calls from Canada to 27 countries"
+              ],
+              "otherFeatures": [
+                "Hotspot capabilities",
+                "Crave Standard With Ads"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$105 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at fastest available speed; throttled to 512 Kbps after 250 GB"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide calling and texting",
+                "Unlimited minutes for calls from Canada to 65 countries"
+              ],
+              "otherFeatures": [
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "2_line_mobile_only": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "Hotspot capabilities",
+                "SD video streaming",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$85 per month",
+              "bundledPrice": null,
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps",
+                "200 GB of data at our fastest available speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in the U.S"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$105 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Unlimited data in Canada and 65 other countries",
+                "countries": "65 other countries",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "Data at up to 250 Mbps",
+                "250 GB of data at our fastest available speed"
+              ],
+              "roamingFeatures": [
+                "Unlimited data in Canada and 65 other countries",
+                "Unlimited minutes for calls from Canada to 65 countries"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited minutes for calls from Canada to 65 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "1_line_bundled": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$55",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$60",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$70",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at our fastest available speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in the U.S"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$90",
+              "bundledPrice": {
+                "firstLineDiscount": "$12"
+              },
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at our fastest available speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in 65 other countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "3_line_mobile_only": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "60 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "Hotspot capabilities",
+                "SD video streaming"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ]
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "100 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ]
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$85 per month",
+              "bundledPrice": null,
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "200 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in the U.S",
+                "Unlimited minutes for calls from Canada to 27 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ]
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$105 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": {
+                "included": true,
+                "details": "Canada and 65 other countries",
+                "countries": "Canada and 65 other countries",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "250 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [
+                "Canada and 65 other countries roaming"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in 65 other countries",
+                "Unlimited minutes for calls from Canada to 65 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ]
+            }
+          ]
+        },
+        "4_line_bundled": {
+          "source_files": [
+            "data/bell/output/bell_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Lite",
+              "regularPrice": "$80",
+              "currentPrice": "$55 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps",
+                "Unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada",
+                "Unlimited texting in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Select",
+              "regularPrice": "$85",
+              "currentPrice": "$60 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps",
+                "Unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada",
+                "Unlimited texting in Canada"
+              ],
+              "otherFeatures": [
+                "SD video streaming",
+                "Hotspot capabilities"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Max",
+              "regularPrice": "$95",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "25 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps",
+                "200 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling in Canada and in the U.S",
+                "Unlimited minutes for calls from Canada to 27 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool"
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultra",
+              "regularPrice": "$115",
+              "currentPrice": "$90 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G/5G+ network access",
+              "roaming": null,
+              "speedFeatures": [
+                "Data at up to 250 Mbps",
+                "250 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited calling, texting and data in Canada and in 65 other countries",
+                "Unlimited minutes for calls from Canada to 65 countries"
+              ],
+              "otherFeatures": [
+                "HD video streaming",
+                "Hotspot capabilities",
+                "Crave Standard With Ads",
+                "One year of Perplexity Pro AI research tool",
+                "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+              ],
+              "bonusOffers": [
+                "One year of Perplexity Pro AI research tool",
+                "New activations only; must bring your own phone."
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 8
+    },
+    "fido": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/fido/output/fido_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Talk & Text Plan - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$30.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "0 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "40GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$40.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "40 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "500 international texts"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Get 3% cash back value with a Rogers Red credit card"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "60GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$45.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "1000 international texts"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Get 3% cash back value with a Rogers Red credit card"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "10GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$45.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "10 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "500 international texts"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Get 3% cash back value with a Rogers Red credit card"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "250MB Basic Plan - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$19.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 MB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [
+                "Data speeds capped at 3 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited incoming calls in Canada."
+              ],
+              "otherFeatures": [
+                "Hotspot not supported",
+                "Fido Roam not available"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "2GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$37.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "2 GB",
+              "networkSpeed": "4G LTE",
+              "roaming": null,
+              "speedFeatures": [
+                "Speeds up to 150 Mbps"
+              ],
+              "roamingFeatures": [
+                "Use your plan abroad with Fido Roam"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Data Overage Protection"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 7,
+              "planName": "3GB Basic Plan - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$39.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "3 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    },
+    "freedom": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/freedom/output/freedom_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "10GB data, talk & text",
+              "regularPrice": null,
+              "currentPrice": "$34 per month",
+              "bundledPrice": null,
+              "dataAmount": "10GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Canada-U.S.-Mexico + Roam Beyond",
+                "countries": "120+ destinations",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-U.S.-Mexico + Roam Beyond"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": "plan-card-10gb-5g",
+                "dataTestId": "plan-card-10gb-5g",
+                "originalText": "$34/month 10GB"
+              }
+            },
+            {
+              "index": 2,
+              "planName": "60GB data, talk & text",
+              "regularPrice": null,
+              "currentPrice": "$39 per month",
+              "bundledPrice": null,
+              "dataAmount": "60GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Canada-U.S.-Mexico + Roam Beyond",
+                "countries": "120+ destinations",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-U.S.-Mexico + Roam Beyond"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": "plan-card-promo-flag",
+                "dataTestId": "plan-card-50gb-5g",
+                "originalText": "$39/month 60GB"
+              }
+            },
+            {
+              "index": 3,
+              "planName": "100GB data",
+              "regularPrice": null,
+              "currentPrice": "$49 per month",
+              "bundledPrice": null,
+              "dataAmount": "100GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Canada-U.S.-Mexico + Roam Beyond",
+                "countries": "120+ destinations",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "15GB bonus data",
+                "Canada-U.S.-Mexico + Roam Beyond"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": "plan-card-100gb-5g",
+                "dataTestId": "plan-card-100gb-5g",
+                "originalText": "$49/month 100GB 15GB"
+              }
+            },
+            {
+              "index": 4,
+              "planName": "150GB data",
+              "regularPrice": null,
+              "currentPrice": "$59 per month",
+              "bundledPrice": null,
+              "dataAmount": "150GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Canada-U.S.-Mexico + Roam Beyond",
+                "countries": "120+ destinations",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "25GB bonus data",
+                "Canada-U.S.-Mexico + Roam Beyond"
+              ],
+              "bonusOffers": [
+                "Save the $45 connection fee when you shop in-store or through customer care",
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": "plan-card-promo-flag",
+                "dataTestId": "plan-card-150gb-5g",
+                "originalText": "$59/month 150GB 25GB"
+              }
+            },
+            {
+              "index": 5,
+              "planName": "200GB data",
+              "regularPrice": null,
+              "currentPrice": "$69 per month",
+              "bundledPrice": null,
+              "dataAmount": "200GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Canada-U.S.-Mexico + Roam Beyond",
+                "countries": "120+ destinations",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Canada-U.S.-Mexico + Roam Beyond"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": "plan-card-promo-flag",
+                "dataTestId": "plan-card-200gb-5g",
+                "originalText": "$69/month 200GB"
+              }
+            },
+            {
+              "index": 6,
+              "planName": "250GB data",
+              "regularPrice": null,
+              "currentPrice": "$79 per month",
+              "bundledPrice": null,
+              "dataAmount": "250GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Canada-U.S.-Mexico + Roam Beyond",
+                "countries": "120+ destinations",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "35GB bonus data",
+                "Canada-U.S.-Mexico + Roam Beyond"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": "plan-card-promo-flag",
+                "dataTestId": "plan-card-250gb-5g",
+                "originalText": "$79/month 250GB 35GB"
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    },
+    "koodo": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/koodo/output/koodo_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "50 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$40 per month",
+              "bundledPrice": null,
+              "dataAmount": "50 GB",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "70 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$45 per month",
+              "bundledPrice": null,
+              "dataAmount": "70 GB",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "100 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "250 GB at 3G Speed",
+              "regularPrice": null,
+              "currentPrice": "$15 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "3G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "250MB of Shock-Free Data at 3G Speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "100 Canada-wide minutes with unlimited incoming minutes"
+              ],
+              "otherFeatures": [
+                "Unlimited Canada-wide messaging (text only)"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "3 GB at 3G Speed",
+              "regularPrice": null,
+              "currentPrice": "$35 per month",
+              "bundledPrice": null,
+              "dataAmount": "3 GB",
+              "networkSpeed": "3G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [
+                "Unlimited Canada-wide messaging (text & picture)"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "2 GB at 4G Speed",
+              "regularPrice": null,
+              "currentPrice": "$37.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "2 GB",
+              "networkSpeed": "4G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [
+                "Unlimited Canada-wide messaging (text & picture)"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    },
+    "rogers": {
+      "scenarios": {
+        "2_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$62.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": null,
+              "currentPrice": "$67.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$77.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$97.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "3_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": null,
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$90.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "2_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$60",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$90.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "4_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$48.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": null,
+              "currentPrice": "$53.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$63.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$83.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "4_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$60",
+              "currentPrice": "$45.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$50.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$80.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "3_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$60",
+              "currentPrice": "$50.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$65.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$85.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "1_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$60",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$90.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials",
+              "regularPrice": "$75",
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials",
+              "regularPrice": null,
+              "currentPrice": "$75.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$85.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$105.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 8
+    },
+    "virgin": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/virgin/output/virgin_llm_output_all_plans_20251123_172521.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "40GB",
+              "regularPrice": null,
+              "currentPrice": "$40 per month",
+              "bundledPrice": null,
+              "dataAmount": "40GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Canada-wide"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "60GB",
+              "regularPrice": null,
+              "currentPrice": "$45 per month",
+              "bundledPrice": null,
+              "dataAmount": "60GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Canada-wide"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Talk and Text",
+              "regularPrice": null,
+              "currentPrice": "$30 per month",
+              "bundledPrice": null,
+              "dataAmount": "pay per use",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "250MB",
+              "regularPrice": null,
+              "currentPrice": "$19 per month",
+              "bundledPrice": null,
+              "dataAmount": "250MB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Canada-wide"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "3GB",
+              "regularPrice": null,
+              "currentPrice": "$39 per month",
+              "bundledPrice": null,
+              "dataAmount": "3GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Canada-wide"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    }
+  },
+  "records": [
+    {
+      "brand": "Bell",
+      "scenario": "2_line_bundled",
+      "name": "Lite",
+      "price": "$55 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "60 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_bundled",
+      "name": "Select",
+      "price": "$60 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "100 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_bundled",
+      "name": "Max",
+      "price": "$70 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "200 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in the U.S",
+        "Unlimited minutes for calls from Canada to 27 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "When you bundle with Internet. Includes Autopay credit. 12",
+        "Average price per line for 2 lines When you bundle with Internet. Includes Autopay credit. 12",
+        "Average price per line for 3 lines When you bundle with Internet. Includes Autopay credit. 12",
+        "Average price per line for 4 lines When you bundle with Internet. Includes Autopay credit. 12"
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_bundled",
+      "name": "Ultra",
+      "price": "$90 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "250 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [
+        "Roaming in 65 other countries"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in 65 other countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada and 65 other countries",
+        "countries": "Canada, United States, 65 other countries",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "When you bundle with Internet. Includes Autopay credit. 12",
+        "Average price per line for 2 lines When you bundle with Internet. Includes Autopay credit. 12",
+        "Average price per line for 3 lines When you bundle with Internet. Includes Autopay credit. 12",
+        "Average price per line for 4 lines When you bundle with Internet. Includes Autopay credit. 12"
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_mobile_only",
+      "name": "Lite",
+      "price": "$70 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_mobile_only",
+      "name": "Select",
+      "price": "$75 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_mobile_only",
+      "name": "Max",
+      "price": "$85 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at our fastest available speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in the U.S",
+        "Unlimited minutes for calls from Canada to 27 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_mobile_only",
+      "name": "Ultra",
+      "price": "$105 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [
+        "Roaming in 65 countries including the U.S."
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in 65 other countries",
+        "Unlimited minutes for calls from Canada to 65 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roaming in Canada and 65 other countries",
+        "countries": "65 countries",
+        "classification": "Canada+US+65 countries"
+      },
+      "roaming_classification": "Canada+US+65 countries",
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_bundled",
+      "name": "Lite",
+      "price": "$55 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "60 GB of data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada roaming",
+        "countries": "Canada",
+        "classification": "Canada Only"
+      },
+      "roaming_classification": "Canada Only",
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_bundled",
+      "name": "Select",
+      "price": "$60 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "100 GB of data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada roaming",
+        "countries": "Canada",
+        "classification": "Canada Only"
+      },
+      "roaming_classification": "Canada Only",
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_bundled",
+      "name": "Max",
+      "price": "$70 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Crave Standard With Ads",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "200 GB of data at our fastest available speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and the U.S"
+      ],
+      "other_features": [
+        "Crave Standard With Ads",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada roaming",
+        "countries": "Canada, United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_bundled",
+      "name": "Ultra",
+      "price": "$90 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Crave Standard With Ads",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "250 GB of data at our fastest available speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in 65 other countries"
+      ],
+      "other_features": [
+        "Crave Standard With Ads",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada and international roaming",
+        "countries": "Canada and 65 other countries",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_mobile_only",
+      "name": "Lite",
+      "price": "$70 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Hotspot capabilities",
+        "SD video streaming"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide calling",
+        "Unlimited Canada texting"
+      ],
+      "other_features": [
+        "Hotspot capabilities",
+        "SD video streaming"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_mobile_only",
+      "name": "Select",
+      "price": "$75 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Hotspot capabilities",
+        "SD video streaming"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide calling",
+        "Unlimited Canada texting"
+      ],
+      "other_features": [
+        "Hotspot capabilities",
+        "SD video streaming"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_mobile_only",
+      "name": "Max",
+      "price": "$85 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Hotspot capabilities",
+        "Crave Standard With Ads"
+      ],
+      "speed_features": [
+        "Data up to fastest available speed; throttle to 512 Kbps after 200 GB"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide calling and texting",
+        "Unlimited minutes for calls from Canada to 27 countries"
+      ],
+      "other_features": [
+        "Hotspot capabilities",
+        "Crave Standard With Ads"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_mobile_only",
+      "name": "Ultra",
+      "price": "$105 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "Data at fastest available speed; throttled to 512 Kbps after 250 GB"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide calling and texting",
+        "Unlimited minutes for calls from Canada to 65 countries"
+      ],
+      "other_features": [
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_mobile_only",
+      "name": "Lite",
+      "price": "$70 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_mobile_only",
+      "name": "Select",
+      "price": "$75 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Hotspot capabilities",
+        "SD video streaming",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "Hotspot capabilities",
+        "SD video streaming",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_mobile_only",
+      "name": "Max",
+      "price": "$85 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps",
+        "200 GB of data at our fastest available speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in the U.S"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "2_line_mobile_only",
+      "name": "Ultra",
+      "price": "$105 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps",
+        "250 GB of data at our fastest available speed"
+      ],
+      "roaming_features": [
+        "Unlimited data in Canada and 65 other countries",
+        "Unlimited minutes for calls from Canada to 65 countries"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited minutes for calls from Canada to 65 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Unlimited data in Canada and 65 other countries",
+        "countries": "65 other countries",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_bundled",
+      "name": "Lite",
+      "price": "$55",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": []
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_bundled",
+      "name": "Select",
+      "price": "$60",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": []
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_bundled",
+      "name": "Max",
+      "price": "$70",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at our fastest available speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in the U.S"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": []
+    },
+    {
+      "brand": "Bell",
+      "scenario": "1_line_bundled",
+      "name": "Ultra",
+      "price": "$90",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "Data at our fastest available speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in 65 other countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {
+        "firstLineDiscount": "$12"
+      },
+      "promotions": []
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_mobile_only",
+      "name": "Lite",
+      "price": "$70 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "Hotspot capabilities",
+        "SD video streaming"
+      ],
+      "speed_features": [
+        "60 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "Hotspot capabilities",
+        "SD video streaming"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_mobile_only",
+      "name": "Select",
+      "price": "$75 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities"
+      ],
+      "speed_features": [
+        "100 GB of data at up to 250 Mbps, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_mobile_only",
+      "name": "Max",
+      "price": "$85 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "200 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in the U.S",
+        "Unlimited minutes for calls from Canada to 27 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "3_line_mobile_only",
+      "name": "Ultra",
+      "price": "$105 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "250 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [
+        "Canada and 65 other countries roaming"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in 65 other countries",
+        "Unlimited minutes for calls from Canada to 65 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada and 65 other countries",
+        "countries": "Canada and 65 other countries",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_bundled",
+      "name": "Lite",
+      "price": "$55 per month",
+      "regular_price": "$80",
+      "data": "60 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps",
+        "Unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada",
+        "Unlimited texting in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_bundled",
+      "name": "Select",
+      "price": "$60 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "SD video streaming",
+        "Hotspot capabilities"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps",
+        "Unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada",
+        "Unlimited texting in Canada"
+      ],
+      "other_features": [
+        "SD video streaming",
+        "Hotspot capabilities"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_bundled",
+      "name": "Max",
+      "price": "$70 per month",
+      "regular_price": "$95",
+      "data": "25 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps",
+        "200 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling in Canada and in the U.S",
+        "Unlimited minutes for calls from Canada to 27 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Bell",
+      "scenario": "4_line_bundled",
+      "name": "Ultra",
+      "price": "$90 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G/5G+ network access",
+      "features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "speed_features": [
+        "Data at up to 250 Mbps",
+        "250 GB of data at our fastest available speed, unlimited data at up to 512 Kbps thereafter"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited calling, texting and data in Canada and in 65 other countries",
+        "Unlimited minutes for calls from Canada to 65 countries"
+      ],
+      "other_features": [
+        "HD video streaming",
+        "Hotspot capabilities",
+        "Crave Standard With Ads",
+        "One year of Perplexity Pro AI research tool",
+        "Get a tablet or smartwatch with SmartPay and a data plan for that device for $0."
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "One year of Perplexity Pro AI research tool",
+        "New activations only; must bring your own phone."
+      ]
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "Talk & Text Plan - BYOP",
+      "price": "$30.00 per month",
+      "regular_price": "",
+      "data": "0 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "40GB, Talk & Text - BYOP",
+      "price": "$40.00 per month",
+      "regular_price": "",
+      "data": "40 GB",
+      "network": "",
+      "features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "500 international texts"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "60GB, Talk & Text - BYOP",
+      "price": "$45.00 per month",
+      "regular_price": "",
+      "data": "60 GB",
+      "network": "",
+      "features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "1000 international texts"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "10GB, Talk & Text - BYOP",
+      "price": "$45.00 per month",
+      "regular_price": "",
+      "data": "10 GB",
+      "network": "",
+      "features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "500 international texts"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "250MB Basic Plan - BYOP",
+      "price": "$19.00 per month",
+      "regular_price": "",
+      "data": "250 MB",
+      "network": "",
+      "features": [
+        "Hotspot not supported",
+        "Fido Roam not available"
+      ],
+      "speed_features": [
+        "Data speeds capped at 3 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited incoming calls in Canada."
+      ],
+      "other_features": [
+        "Hotspot not supported",
+        "Fido Roam not available"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "2GB, Talk & Text - BYOP",
+      "price": "$37.50 per month",
+      "regular_price": "",
+      "data": "2 GB",
+      "network": "4G LTE",
+      "features": [
+        "Hotspot available as an add-on",
+        "Data Overage Protection"
+      ],
+      "speed_features": [
+        "Speeds up to 150 Mbps"
+      ],
+      "roaming_features": [
+        "Use your plan abroad with Fido Roam"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Data Overage Protection"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "3GB Basic Plan - BYOP",
+      "price": "$39.00 per month",
+      "regular_price": "",
+      "data": "3 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "10GB data, talk & text",
+      "price": "$34 per month",
+      "regular_price": "",
+      "data": "10GB",
+      "network": "5G",
+      "features": [
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "speed_features": [],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada-U.S.-Mexico + Roam Beyond",
+        "countries": "120+ destinations",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "60GB data, talk & text",
+      "price": "$39 per month",
+      "regular_price": "",
+      "data": "60GB",
+      "network": "5G",
+      "features": [
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "speed_features": [],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada-U.S.-Mexico + Roam Beyond",
+        "countries": "120+ destinations",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "100GB data",
+      "price": "$49 per month",
+      "regular_price": "",
+      "data": "100GB",
+      "network": "5G",
+      "features": [
+        "15GB bonus data",
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "speed_features": [],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "15GB bonus data",
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada-U.S.-Mexico + Roam Beyond",
+        "countries": "120+ destinations",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "150GB data",
+      "price": "$59 per month",
+      "regular_price": "",
+      "data": "150GB",
+      "network": "5G",
+      "features": [
+        "25GB bonus data",
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "speed_features": [],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "25GB bonus data",
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada-U.S.-Mexico + Roam Beyond",
+        "countries": "120+ destinations",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "Save the $45 connection fee when you shop in-store or through customer care",
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "200GB data",
+      "price": "$69 per month",
+      "regular_price": "",
+      "data": "200GB",
+      "network": "5G",
+      "features": [
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "speed_features": [],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada-U.S.-Mexico + Roam Beyond",
+        "countries": "120+ destinations",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "250GB data",
+      "price": "$79 per month",
+      "regular_price": "",
+      "data": "250GB",
+      "network": "5G",
+      "features": [
+        "35GB bonus data",
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "speed_features": [],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "35GB bonus data",
+        "Canada-U.S.-Mexico + Roam Beyond"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Canada-U.S.-Mexico + Roam Beyond",
+        "countries": "120+ destinations",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "50 GB at 5G Speed",
+      "price": "$40 per month",
+      "regular_price": "",
+      "data": "50 GB",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "70 GB at 5G Speed",
+      "price": "$45 per month",
+      "regular_price": "",
+      "data": "70 GB",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "100 GB at 5G Speed",
+      "price": "$75 per month",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "250 GB at 3G Speed",
+      "price": "$15 per month",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "3G Speed",
+      "features": [
+        "Unlimited Canada-wide messaging (text only)"
+      ],
+      "speed_features": [
+        "250MB of Shock-Free Data at 3G Speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "100 Canada-wide minutes with unlimited incoming minutes"
+      ],
+      "other_features": [
+        "Unlimited Canada-wide messaging (text only)"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "3 GB at 3G Speed",
+      "price": "$35 per month",
+      "regular_price": "",
+      "data": "3 GB",
+      "network": "3G Speed",
+      "features": [
+        "Unlimited Canada-wide messaging (text & picture)"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [
+        "Unlimited Canada-wide messaging (text & picture)"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "2 GB at 4G Speed",
+      "price": "$37.50 per month",
+      "regular_price": "",
+      "data": "2 GB",
+      "network": "4G Speed",
+      "features": [
+        "Unlimited Canada-wide messaging (text & picture)"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [
+        "Unlimited Canada-wide messaging (text & picture)"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Essentials",
+      "price": "$62.50 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Essentials",
+      "price": "$67.50 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Popular",
+      "price": "$77.50 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$97.50 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Essentials",
+      "price": "$55.00 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Essentials",
+      "price": "$60.00 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Popular",
+      "price": "$70.00 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$90.00 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Essentials",
+      "price": "$55.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Essentials",
+      "price": "$60.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Popular",
+      "price": "$70.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Ultimate",
+      "price": "$90.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Essentials",
+      "price": "$48.75 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Essentials",
+      "price": "$53.75 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Popular",
+      "price": "$63.75 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$83.75 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Essentials",
+      "price": "$45.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Essentials",
+      "price": "$50.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Popular",
+      "price": "$60.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Ultimate",
+      "price": "$80.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Essentials",
+      "price": "$50.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Essentials",
+      "price": "$55.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Popular",
+      "price": "$65.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Ultimate",
+      "price": "$85.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Essentials",
+      "price": "$55.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Essentials",
+      "price": "$60.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Popular",
+      "price": "$70.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Ultimate",
+      "price": "$90.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Essentials",
+      "price": "$70.00 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Essentials",
+      "price": "$75.00 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Popular",
+      "price": "$85.00 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$105.00 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "40GB",
+      "price": "$40 per month",
+      "regular_price": "",
+      "data": "40GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Canada-wide"
+      ],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "60GB",
+      "price": "$45 per month",
+      "regular_price": "",
+      "data": "60GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Canada-wide"
+      ],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "Talk and Text",
+      "price": "$30 per month",
+      "regular_price": "",
+      "data": "pay per use",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "250MB",
+      "price": "$19 per month",
+      "regular_price": "",
+      "data": "250MB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Canada-wide"
+      ],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "3GB",
+      "price": "$39 per month",
+      "regular_price": "",
+      "data": "3GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Canada-wide"
+      ],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    }
+  ]
+}
