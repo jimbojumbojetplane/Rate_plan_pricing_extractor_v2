@@ -1,0 +1,4494 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-29T14:41:03.898971",
+    "total_brands": 6,
+    "brands": [
+      "fido",
+      "freedom",
+      "koodo",
+      "rogers",
+      "telus",
+      "virgin"
+    ],
+    "record_count": 83,
+    "event_id": "20251229_142231"
+  },
+  "brands": {
+    "fido": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/fido/output/fido_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Talk & Text Plan - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$30.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "0 MB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "50GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$40.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "50 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "500 international texts"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Get 3% cash back value with a Rogers Red credit card"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "70GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$45.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "70 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "1000 international texts"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Get 3% cash back value with a Rogers Red credit card"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "20GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$45.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "20 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "500 international texts"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on",
+                "Get 3% cash back value with a Rogers Red credit card"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "250MB Basic Plan - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$19.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 MB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "Data speeds capped at 3 Mbps"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited incoming calls in Canada",
+                "100 Canada-wide outgoing minutes ($0.45/min thereafter)"
+              ],
+              "otherFeatures": [
+                "Add-ons like Hotspot not supported—plus you’ll miss out on popular features like Fido Roam."
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "2GB, Talk & Text - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$37.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "2 GB",
+              "networkSpeed": "4G LTE",
+              "roaming": {
+                "included": true,
+                "details": "Use your plan abroad with Fido Roam",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "4G LTE speeds up to 150Mbps"
+              ],
+              "roamingFeatures": [
+                "Use your plan abroad with Fido Roam"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [
+                "Hotspot available as an add-on"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 7,
+              "planName": "3GB Basic Plan - BYOP",
+              "regularPrice": null,
+              "currentPrice": "$39.00 per month",
+              "bundledPrice": null,
+              "dataAmount": "3 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide talk and text"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    },
+    "freedom": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/freedom/output/freedom_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "10GB",
+              "regularPrice": null,
+              "currentPrice": "$34 per month",
+              "bundledPrice": null,
+              "dataAmount": "10GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Roam Beyond in 120+ destinations",
+                "countries": "Canada, U.S., Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "Unlimited data at reduced speeds thereafter"
+              ],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "talk & text"
+              ],
+              "otherFeatures": [
+                "data (one-time allotment)"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": "plan-card-10gb-5g",
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "70GB",
+              "regularPrice": null,
+              "currentPrice": "$39 per month",
+              "bundledPrice": null,
+              "dataAmount": "70GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Roam Beyond in 120+ destinations",
+                "countries": "Canada, U.S., Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "60GB + 10GB Bonus",
+                "Unlimited data at reduced speeds thereafter"
+              ],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "talk & text"
+              ],
+              "otherFeatures": [
+                "data (one-time allotment)"
+              ],
+              "bonusOffers": [
+                "60GB + 10GB Bonus²³",
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise¹⁹"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": "plan-card-70gb-5g",
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "100GB",
+              "regularPrice": null,
+              "currentPrice": "$49 per month",
+              "bundledPrice": null,
+              "dataAmount": "100GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Roam Beyond in 120+ destinations",
+                "countries": "Canada, U.S., Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "Unlimited data at reduced speeds thereafter"
+              ],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "talk & text"
+              ],
+              "otherFeatures": [
+                "data (one-time allotment)"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise¹⁹"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": "plan-card-100gb-5g",
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "150GB",
+              "regularPrice": null,
+              "currentPrice": "$59 per month",
+              "bundledPrice": null,
+              "dataAmount": "150GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Roam Beyond in 120+ destinations",
+                "countries": "Canada, U.S., Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "Unlimited data at reduced speeds thereafter"
+              ],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "talk & text"
+              ],
+              "otherFeatures": [
+                "data (one-time allotment)"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise¹⁹",
+                "Save the $45 connection fee when you shop in-store or through customer care¹⁹"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": "plan-card-150gb-5g",
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "200GB",
+              "regularPrice": null,
+              "currentPrice": "$65 per month",
+              "bundledPrice": null,
+              "dataAmount": "200GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Roam Beyond in 120+ destinations",
+                "countries": "Canada, U.S., Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "Unlimited data at reduced speeds thereafter"
+              ],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "talk & text"
+              ],
+              "otherFeatures": [
+                "data (one-time allotment)"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise",
+                "and $4/mo. discount with phone purchase²²"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": "plan-card-200gb-5g",
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "250GB",
+              "regularPrice": null,
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "250GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Roam Beyond in 120+ destinations",
+                "countries": "Canada, U.S., Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [
+                "Unlimited data at reduced speeds thereafter"
+              ],
+              "roamingFeatures": [
+                "Roam Beyond in 120+ destinations"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "talk & text"
+              ],
+              "otherFeatures": [
+                "data (one-time allotment)"
+              ],
+              "bonusOffers": [
+                "with Digital Discount",
+                "Plan price is covered by our Price Freeze Promise",
+                "and $4/mo. discount with phone purchase²²"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": "plan-card-250gb-5g",
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    },
+    "koodo": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/koodo/output/koodo_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "60 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$40 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB at 5G Speed",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": true,
+                "details": "Canada-US-Mexico roaming with data, talk and texts",
+                "countries": "Canada, United States, Mexico",
+                "classification": "Canada+US+International"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Canada-US-Mexico roaming with data, talk and texts"
+              ],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Mobility Plans - 60 GB at 5G Speed"
+              }
+            },
+            {
+              "index": 2,
+              "planName": "50 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$40 per month",
+              "bundledPrice": null,
+              "dataAmount": "50 GB at 5G Speed",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Mobility Plans - 50 GB at 5G Speed"
+              }
+            },
+            {
+              "index": 3,
+              "planName": "70 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$45 per month",
+              "bundledPrice": null,
+              "dataAmount": "70 GB at 5G Speed",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Mobility Plans - 70 GB at 5G Speed"
+              }
+            },
+            {
+              "index": 4,
+              "planName": "100 GB at 5G Speed",
+              "regularPrice": null,
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB at 5G Speed",
+              "networkSpeed": "5G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited International SMS"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Mobility Plans - 100 GB at 5G Speed"
+              }
+            },
+            {
+              "index": 5,
+              "planName": "Starter Plans - Unknown",
+              "regularPrice": null,
+              "currentPrice": "$30 per month",
+              "bundledPrice": null,
+              "dataAmount": "pay-as-you-go",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [
+                "Pay-per-use data",
+                "Unlimited Canada-wide messaging (text only)"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Starter Plans - Unknown"
+              }
+            },
+            {
+              "index": 6,
+              "planName": "Starter Plans - 250 GB at 3G Speed",
+              "regularPrice": null,
+              "currentPrice": "$15 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB at 3G Speed",
+              "networkSpeed": "3G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "250MB of Shock-Free® Data at 3G Speed"
+              ],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [
+                "100 Canada-wide minutes with unlimited incoming minutes"
+              ],
+              "otherFeatures": [
+                "Unlimited Canada-wide messaging (text only)"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Starter Plans - 250 GB at 3G Speed"
+              }
+            },
+            {
+              "index": 7,
+              "planName": "Starter Plans - 3 GB at 3G Speed",
+              "regularPrice": null,
+              "currentPrice": "$35 per month",
+              "bundledPrice": null,
+              "dataAmount": "3 GB at 3G Speed",
+              "networkSpeed": "3G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited Canada-wide messaging (text & picture)"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Starter Plans - 3 GB at 3G Speed"
+              }
+            },
+            {
+              "index": 8,
+              "planName": "Starter Plans - 2 GB at 4G Speed",
+              "regularPrice": null,
+              "currentPrice": "$37.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "2 GB at 4G Speed",
+              "networkSpeed": "4G Speed",
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [
+                "Unlimited Canada-wide messaging (text & picture)"
+              ],
+              "callingFeatures": [
+                "Unlimited Canada-wide minutes"
+              ],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": "Starter Plans - 2 GB at 4G Speed"
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    },
+    "rogers": {
+      "scenarios": {
+        "2_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$60",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$90.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "2_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$62.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": null,
+              "currentPrice": "$67.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$77.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$97.50 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": null,
+              "currentPrice": "$75.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$85.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$105.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "1_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$60",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$90.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "3_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$60",
+              "currentPrice": "$50.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$65.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$85.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": null,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "4_line_bundled": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$60",
+              "currentPrice": "$45.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$50.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": "$85",
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": "$105",
+              "currentPrice": "$80.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "4_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$48.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": null,
+              "currentPrice": "$53.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$63.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$83.75 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "3_line_mobile_only": {
+          "source_files": [
+            "data/rogers/output/rogers_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "Essentials 60 GB",
+              "regularPrice": "$75",
+              "currentPrice": "$55.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "Essentials 100 GB",
+              "regularPrice": null,
+              "currentPrice": "$60.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "Popular",
+              "regularPrice": null,
+              "currentPrice": "$70.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "Ultimate",
+              "regularPrice": null,
+              "currentPrice": "$90.00 per mo",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 8
+    },
+    "telus": {
+      "scenarios": {
+        "4_line": {
+          "source_files": [
+            "data/telus/output/telus_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "5G+ Complete",
+              "regularPrice": "$85",
+              "currentPrice": "$60 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "5G+ Complete - Canada-US",
+              "regularPrice": "$95",
+              "currentPrice": "$70 per month",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "5G+ Complete - Unlimited",
+              "regularPrice": "$115",
+              "currentPrice": "$90 per month",
+              "bundledPrice": null,
+              "dataAmount": "Unlimited",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "5G+ Complete - Explore",
+              "regularPrice": "$115",
+              "currentPrice": "$90 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "5G Standard",
+              "regularPrice": "$70",
+              "currentPrice": "$45 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "5G Standard",
+              "regularPrice": "$75",
+              "currentPrice": "$50 per month",
+              "bundledPrice": null,
+              "dataAmount": "80 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "1_line": {
+          "source_files": [
+            "data/telus/output/telus_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "5G+ Complete",
+              "regularPrice": "$85",
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada, United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [
+                "5G+ speeds"
+              ],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "5G+ Complete - Canada-US",
+              "regularPrice": "$95",
+              "currentPrice": "$85 per month",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada, United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [
+                "5G+ speeds"
+              ],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "5G+ Complete - Unlimited",
+              "regularPrice": "$115",
+              "currentPrice": "$105 per month",
+              "bundledPrice": null,
+              "dataAmount": "Unlimited",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "5G+ speeds"
+              ],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "5G+ Complete - Explore",
+              "regularPrice": "$115",
+              "currentPrice": "$105 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "5G+ speeds"
+              ],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "5G Standard",
+              "regularPrice": "$70",
+              "currentPrice": "$60 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "5G speeds"
+              ],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 6,
+              "planName": "5G Standard",
+              "regularPrice": "$75",
+              "currentPrice": "$65 per month",
+              "bundledPrice": null,
+              "dataAmount": "80 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [
+                "5G speeds"
+              ],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 7,
+              "planName": "Voice",
+              "regularPrice": "$40",
+              "currentPrice": "$30 per month",
+              "bundledPrice": null,
+              "dataAmount": null,
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        },
+        "3_line": {
+          "source_files": [
+            "data/telus/output/telus_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "5G+ Complete",
+              "regularPrice": "$85",
+              "currentPrice": "$65 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada and United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "5G+ Complete - Canada-US",
+              "regularPrice": "$95",
+              "currentPrice": "$75 per month",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada and United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "5G+ Complete - Unlimited",
+              "regularPrice": "$115",
+              "currentPrice": "$95 per month",
+              "bundledPrice": null,
+              "dataAmount": "Unlimited",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada and United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "75-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "5G+ Complete - Explore",
+              "regularPrice": "$115",
+              "currentPrice": "$95 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "2-year term",
+                "105-Year Rate Plan Price Lock",
+                "Easy Roam from $5/day"
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 5,
+              "planName": "5G Standard",
+              "regularPrice": "$70",
+              "currentPrice": "$50 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "Easy Roam from $16-18 per day",
+                "discounts of $20, including the pre-authorized bank payments discount"
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 6,
+              "planName": "5G Standard",
+              "regularPrice": "$75",
+              "currentPrice": "$55 per month",
+              "bundledPrice": null,
+              "dataAmount": "80 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "Easy Roam from $16-18 per day",
+                "discounts of $20, including the pre-authorized bank payments discount"
+              ],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 7,
+              "planName": "Voice",
+              "regularPrice": "$40",
+              "currentPrice": "$30 per month",
+              "bundledPrice": null,
+              "dataAmount": null,
+              "networkSpeed": null,
+              "roaming": {
+                "included": false,
+                "details": null,
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "discounts of $10, including the pre-authorized bank payments discount"
+              ],
+              "otherIdentifiers": null
+            }
+          ]
+        },
+        "2_line": {
+          "source_files": [
+            "data/telus/output/telus_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "5G+ Complete",
+              "regularPrice": "$85",
+              "currentPrice": "$67.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "100 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada; United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 2,
+              "planName": "5G+ Complete - Canada-US",
+              "regularPrice": "$95",
+              "currentPrice": "$77.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "175 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": "Canada; United States",
+                "classification": "Canada+US"
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "45-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 3,
+              "planName": "5G+ Complete - Unlimited",
+              "regularPrice": "$115",
+              "currentPrice": "$97.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "Unlimited",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock",
+                "75-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 4,
+              "planName": "5G+ Complete - Explore",
+              "regularPrice": "$115",
+              "currentPrice": "$97.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "250 GB",
+              "networkSpeed": "5G+",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $5/day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $5/day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "5-Year Rate Plan Price Lock"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            },
+            {
+              "index": 5,
+              "planName": "5G Standard",
+              "regularPrice": "$70",
+              "currentPrice": "$52.50 per month",
+              "bundledPrice": null,
+              "dataAmount": "60 GB",
+              "networkSpeed": "5G",
+              "roaming": {
+                "included": true,
+                "details": "Easy Roam from $16-18 per day",
+                "countries": null,
+                "classification": null
+              },
+              "speedFeatures": [],
+              "roamingFeatures": [
+                "Easy Roam from $16-18 per day"
+              ],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [],
+              "bonusOffers": [
+                "Discounts of $17"
+              ],
+              "otherIdentifiers": {
+                "marketingLabel": null,
+                "dataTestId": null,
+                "originalText": null
+              }
+            }
+          ]
+        }
+      },
+      "scenario_count": 4
+    },
+    "virgin": {
+      "scenarios": {
+        "1_line_mobile_only": {
+          "source_files": [
+            "data/virgin/output/virgin_llm_output_all_plans_20251229_142231.json"
+          ],
+          "plans": [
+            {
+              "index": 1,
+              "planName": "50GB",
+              "regularPrice": null,
+              "currentPrice": "$40 per month",
+              "bundledPrice": null,
+              "dataAmount": "50GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Unlimited",
+                "Unlimited",
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 2,
+              "planName": "60GB",
+              "regularPrice": null,
+              "currentPrice": "$45 per month",
+              "bundledPrice": null,
+              "dataAmount": "60GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Unlimited",
+                "Unlimited",
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 3,
+              "planName": "Talk and Text",
+              "regularPrice": null,
+              "currentPrice": "$30 per month",
+              "bundledPrice": null,
+              "dataAmount": "pay per use",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Unlimited",
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 4,
+              "planName": "250MB",
+              "regularPrice": null,
+              "currentPrice": "$19 per month",
+              "bundledPrice": null,
+              "dataAmount": "250MB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Unlimited",
+                "Unlimited",
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            },
+            {
+              "index": 5,
+              "planName": "3GB",
+              "regularPrice": null,
+              "currentPrice": "$39 per month",
+              "bundledPrice": null,
+              "dataAmount": "3GB",
+              "networkSpeed": null,
+              "roaming": null,
+              "speedFeatures": [],
+              "roamingFeatures": [],
+              "internationalTextFeatures": [],
+              "callingFeatures": [],
+              "otherFeatures": [
+                "Unlimited",
+                "Canada-wide"
+              ],
+              "bonusOffers": [],
+              "otherIdentifiers": null
+            }
+          ]
+        }
+      },
+      "scenario_count": 1
+    }
+  },
+  "records": [
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "Talk & Text Plan - BYOP",
+      "price": "$30.00 per month",
+      "regular_price": "",
+      "data": "0 MB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "50GB, Talk & Text - BYOP",
+      "price": "$40.00 per month",
+      "regular_price": "",
+      "data": "50 GB",
+      "network": "",
+      "features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "500 international texts"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "70GB, Talk & Text - BYOP",
+      "price": "$45.00 per month",
+      "regular_price": "",
+      "data": "70 GB",
+      "network": "",
+      "features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "1000 international texts"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "20GB, Talk & Text - BYOP",
+      "price": "$45.00 per month",
+      "regular_price": "",
+      "data": "20 GB",
+      "network": "",
+      "features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "500 international texts"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on",
+        "Get 3% cash back value with a Rogers Red credit card"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "250MB Basic Plan - BYOP",
+      "price": "$19.00 per month",
+      "regular_price": "",
+      "data": "250 MB",
+      "network": "",
+      "features": [
+        "Add-ons like Hotspot not supported—plus you’ll miss out on popular features like Fido Roam."
+      ],
+      "speed_features": [
+        "Data speeds capped at 3 Mbps"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited incoming calls in Canada",
+        "100 Canada-wide outgoing minutes ($0.45/min thereafter)"
+      ],
+      "other_features": [
+        "Add-ons like Hotspot not supported—plus you’ll miss out on popular features like Fido Roam."
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "2GB, Talk & Text - BYOP",
+      "price": "$37.50 per month",
+      "regular_price": "",
+      "data": "2 GB",
+      "network": "4G LTE",
+      "features": [
+        "Hotspot available as an add-on"
+      ],
+      "speed_features": [
+        "4G LTE speeds up to 150Mbps"
+      ],
+      "roaming_features": [
+        "Use your plan abroad with Fido Roam"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [
+        "Hotspot available as an add-on"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Use your plan abroad with Fido Roam",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Fido",
+      "scenario": "1_line_mobile_only",
+      "name": "3GB Basic Plan - BYOP",
+      "price": "$39.00 per month",
+      "regular_price": "",
+      "data": "3 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide talk and text"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "10GB",
+      "price": "$34 per month",
+      "regular_price": "",
+      "data": "10GB",
+      "network": "5G",
+      "features": [
+        "data (one-time allotment)"
+      ],
+      "speed_features": [
+        "Unlimited data at reduced speeds thereafter"
+      ],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "talk & text"
+      ],
+      "other_features": [
+        "data (one-time allotment)"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roam Beyond in 120+ destinations",
+        "countries": "Canada, U.S., Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "70GB",
+      "price": "$39 per month",
+      "regular_price": "",
+      "data": "70GB",
+      "network": "5G",
+      "features": [
+        "data (one-time allotment)"
+      ],
+      "speed_features": [
+        "60GB + 10GB Bonus",
+        "Unlimited data at reduced speeds thereafter"
+      ],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "talk & text"
+      ],
+      "other_features": [
+        "data (one-time allotment)"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roam Beyond in 120+ destinations",
+        "countries": "Canada, U.S., Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "60GB + 10GB Bonus²³",
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise¹⁹"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "100GB",
+      "price": "$49 per month",
+      "regular_price": "",
+      "data": "100GB",
+      "network": "5G",
+      "features": [
+        "data (one-time allotment)"
+      ],
+      "speed_features": [
+        "Unlimited data at reduced speeds thereafter"
+      ],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "talk & text"
+      ],
+      "other_features": [
+        "data (one-time allotment)"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roam Beyond in 120+ destinations",
+        "countries": "Canada, U.S., Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise¹⁹"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "150GB",
+      "price": "$59 per month",
+      "regular_price": "",
+      "data": "150GB",
+      "network": "5G",
+      "features": [
+        "data (one-time allotment)"
+      ],
+      "speed_features": [
+        "Unlimited data at reduced speeds thereafter"
+      ],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "talk & text"
+      ],
+      "other_features": [
+        "data (one-time allotment)"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roam Beyond in 120+ destinations",
+        "countries": "Canada, U.S., Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise¹⁹",
+        "Save the $45 connection fee when you shop in-store or through customer care¹⁹"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "200GB",
+      "price": "$65 per month",
+      "regular_price": "",
+      "data": "200GB",
+      "network": "5G",
+      "features": [
+        "data (one-time allotment)"
+      ],
+      "speed_features": [
+        "Unlimited data at reduced speeds thereafter"
+      ],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "talk & text"
+      ],
+      "other_features": [
+        "data (one-time allotment)"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roam Beyond in 120+ destinations",
+        "countries": "Canada, U.S., Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise",
+        "and $4/mo. discount with phone purchase²²"
+      ]
+    },
+    {
+      "brand": "Freedom",
+      "scenario": "1_line_mobile_only",
+      "name": "250GB",
+      "price": "$75 per month",
+      "regular_price": "",
+      "data": "250GB",
+      "network": "5G",
+      "features": [
+        "data (one-time allotment)"
+      ],
+      "speed_features": [
+        "Unlimited data at reduced speeds thereafter"
+      ],
+      "roaming_features": [
+        "Roam Beyond in 120+ destinations"
+      ],
+      "international_text_features": [],
+      "calling_features": [
+        "talk & text"
+      ],
+      "other_features": [
+        "data (one-time allotment)"
+      ],
+      "roaming": {
+        "included": true,
+        "details": "Roam Beyond in 120+ destinations",
+        "countries": "Canada, U.S., Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": [
+        "with Digital Discount",
+        "Plan price is covered by our Price Freeze Promise",
+        "and $4/mo. discount with phone purchase²²"
+      ]
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "60 GB at 5G Speed",
+      "price": "$40 per month",
+      "regular_price": "",
+      "data": "60 GB at 5G Speed",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Canada-US-Mexico roaming with data, talk and texts"
+      ],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Canada-US-Mexico roaming with data, talk and texts",
+        "countries": "Canada, United States, Mexico",
+        "classification": "Canada+US+International"
+      },
+      "roaming_classification": "Canada+US+International",
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "50 GB at 5G Speed",
+      "price": "$40 per month",
+      "regular_price": "",
+      "data": "50 GB at 5G Speed",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "70 GB at 5G Speed",
+      "price": "$45 per month",
+      "regular_price": "",
+      "data": "70 GB at 5G Speed",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "100 GB at 5G Speed",
+      "price": "$75 per month",
+      "regular_price": "",
+      "data": "100 GB at 5G Speed",
+      "network": "5G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited International SMS"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "Starter Plans - Unknown",
+      "price": "$30 per month",
+      "regular_price": "",
+      "data": "pay-as-you-go",
+      "network": "",
+      "features": [
+        "Pay-per-use data",
+        "Unlimited Canada-wide messaging (text only)"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [
+        "Pay-per-use data",
+        "Unlimited Canada-wide messaging (text only)"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "Starter Plans - 250 GB at 3G Speed",
+      "price": "$15 per month",
+      "regular_price": "",
+      "data": "250 GB at 3G Speed",
+      "network": "3G Speed",
+      "features": [
+        "Unlimited Canada-wide messaging (text only)"
+      ],
+      "speed_features": [
+        "250MB of Shock-Free® Data at 3G Speed"
+      ],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [
+        "100 Canada-wide minutes with unlimited incoming minutes"
+      ],
+      "other_features": [
+        "Unlimited Canada-wide messaging (text only)"
+      ],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "Starter Plans - 3 GB at 3G Speed",
+      "price": "$35 per month",
+      "regular_price": "",
+      "data": "3 GB at 3G Speed",
+      "network": "3G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited Canada-wide messaging (text & picture)"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Koodo",
+      "scenario": "1_line_mobile_only",
+      "name": "Starter Plans - 2 GB at 4G Speed",
+      "price": "$37.50 per month",
+      "regular_price": "",
+      "data": "2 GB at 4G Speed",
+      "network": "4G Speed",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [
+        "Unlimited Canada-wide messaging (text & picture)"
+      ],
+      "calling_features": [
+        "Unlimited Canada-wide minutes"
+      ],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Essentials 60 GB",
+      "price": "$55.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Essentials 100 GB",
+      "price": "$60.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Popular",
+      "price": "$70.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_bundled",
+      "name": "Ultimate",
+      "price": "$90.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Essentials 60 GB",
+      "price": "$62.50 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Essentials 100 GB",
+      "price": "$67.50 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Popular",
+      "price": "$77.50 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "2_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$97.50 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Essentials 60 GB",
+      "price": "$70.00 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Essentials 100 GB",
+      "price": "$75.00 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Popular",
+      "price": "$85.00 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$105.00 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Essentials 60 GB",
+      "price": "$55.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Essentials 100 GB",
+      "price": "$60.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Popular",
+      "price": "$70.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "1_line_bundled",
+      "name": "Ultimate",
+      "price": "$90.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Essentials 60 GB",
+      "price": "$50.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Essentials 100 GB",
+      "price": "$55.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Popular",
+      "price": "$65.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_bundled",
+      "name": "Ultimate",
+      "price": "$85.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": null,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Essentials 60 GB",
+      "price": "$45.00 per mo",
+      "regular_price": "$60",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Essentials 100 GB",
+      "price": "$50.00 per mo",
+      "regular_price": "$75",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Popular",
+      "price": "$60.00 per mo",
+      "regular_price": "$85",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_bundled",
+      "name": "Ultimate",
+      "price": "$80.00 per mo",
+      "regular_price": "$105",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Essentials 60 GB",
+      "price": "$48.75 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Essentials 100 GB",
+      "price": "$53.75 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Popular",
+      "price": "$63.75 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "4_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$83.75 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Essentials 60 GB",
+      "price": "$55.00 per mo",
+      "regular_price": "$75",
+      "data": "60 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Essentials 100 GB",
+      "price": "$60.00 per mo",
+      "regular_price": "",
+      "data": "100 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Popular",
+      "price": "$70.00 per mo",
+      "regular_price": "",
+      "data": "175 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Rogers",
+      "scenario": "3_line_mobile_only",
+      "name": "Ultimate",
+      "price": "$90.00 per mo",
+      "regular_price": "",
+      "data": "250 GB",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Telus",
+      "scenario": "4_line",
+      "name": "5G+ Complete",
+      "price": "$60 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "4_line",
+      "name": "5G+ Complete - Canada-US",
+      "price": "$70 per month",
+      "regular_price": "$95",
+      "data": "175 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "4_line",
+      "name": "5G+ Complete - Unlimited",
+      "price": "$90 per month",
+      "regular_price": "$115",
+      "data": "Unlimited",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "4_line",
+      "name": "5G+ Complete - Explore",
+      "price": "$90 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "4_line",
+      "name": "5G Standard",
+      "price": "$45 per month",
+      "regular_price": "$70",
+      "data": "60 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Telus",
+      "scenario": "4_line",
+      "name": "5G Standard",
+      "price": "$50 per month",
+      "regular_price": "$75",
+      "data": "80 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "5G+ Complete",
+      "price": "$75 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [
+        "5G+ speeds"
+      ],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada, United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "5G+ Complete - Canada-US",
+      "price": "$85 per month",
+      "regular_price": "$95",
+      "data": "175 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [
+        "5G+ speeds"
+      ],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada, United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "5G+ Complete - Unlimited",
+      "price": "$105 per month",
+      "regular_price": "$115",
+      "data": "Unlimited",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [
+        "5G+ speeds"
+      ],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "5G+ Complete - Explore",
+      "price": "$105 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [
+        "5G+ speeds"
+      ],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "5G Standard",
+      "price": "$60 per month",
+      "regular_price": "$70",
+      "data": "60 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [
+        "5G speeds"
+      ],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "5G Standard",
+      "price": "$65 per month",
+      "regular_price": "$75",
+      "data": "80 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [
+        "5G speeds"
+      ],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Telus",
+      "scenario": "1_line",
+      "name": "Voice",
+      "price": "$30 per month",
+      "regular_price": "$40",
+      "data": "N/A",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "5G+ Complete",
+      "price": "$65 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada and United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "5G+ Complete - Canada-US",
+      "price": "$75 per month",
+      "regular_price": "$95",
+      "data": "175 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada and United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "5G+ Complete - Unlimited",
+      "price": "$95 per month",
+      "regular_price": "$115",
+      "data": "Unlimited",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada and United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "75-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "5G+ Complete - Explore",
+      "price": "$95 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "2-year term",
+        "105-Year Rate Plan Price Lock",
+        "Easy Roam from $5/day"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "5G Standard",
+      "price": "$50 per month",
+      "regular_price": "$70",
+      "data": "60 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "Easy Roam from $16-18 per day",
+        "discounts of $20, including the pre-authorized bank payments discount"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "5G Standard",
+      "price": "$55 per month",
+      "regular_price": "$75",
+      "data": "80 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "Easy Roam from $16-18 per day",
+        "discounts of $20, including the pre-authorized bank payments discount"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "3_line",
+      "name": "Voice",
+      "price": "$30 per month",
+      "regular_price": "$40",
+      "data": "N/A",
+      "network": "",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": false,
+        "details": null,
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "discounts of $10, including the pre-authorized bank payments discount"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "2_line",
+      "name": "5G+ Complete",
+      "price": "$67.50 per month",
+      "regular_price": "$85",
+      "data": "100 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada; United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "2_line",
+      "name": "5G+ Complete - Canada-US",
+      "price": "$77.50 per month",
+      "regular_price": "$95",
+      "data": "175 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": "Canada; United States",
+        "classification": "Canada+US"
+      },
+      "roaming_classification": "Canada+US",
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "45-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "2_line",
+      "name": "5G+ Complete - Unlimited",
+      "price": "$97.50 per month",
+      "regular_price": "$115",
+      "data": "Unlimited",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock",
+        "75-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "2_line",
+      "name": "5G+ Complete - Explore",
+      "price": "$97.50 per month",
+      "regular_price": "$115",
+      "data": "250 GB",
+      "network": "5G+",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $5/day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $5/day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "5-Year Rate Plan Price Lock"
+      ]
+    },
+    {
+      "brand": "Telus",
+      "scenario": "2_line",
+      "name": "5G Standard",
+      "price": "$52.50 per month",
+      "regular_price": "$70",
+      "data": "60 GB",
+      "network": "5G",
+      "features": [],
+      "speed_features": [],
+      "roaming_features": [
+        "Easy Roam from $16-18 per day"
+      ],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [],
+      "roaming": {
+        "included": true,
+        "details": "Easy Roam from $16-18 per day",
+        "countries": null,
+        "classification": null
+      },
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": [
+        "Discounts of $17"
+      ]
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "50GB",
+      "price": "$40 per month",
+      "regular_price": "",
+      "data": "50GB",
+      "network": "",
+      "features": [
+        "Unlimited",
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Unlimited",
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "60GB",
+      "price": "$45 per month",
+      "regular_price": "",
+      "data": "60GB",
+      "network": "",
+      "features": [
+        "Unlimited",
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Unlimited",
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "Talk and Text",
+      "price": "$30 per month",
+      "regular_price": "",
+      "data": "pay per use",
+      "network": "",
+      "features": [
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "250MB",
+      "price": "$19 per month",
+      "regular_price": "",
+      "data": "250MB",
+      "network": "",
+      "features": [
+        "Unlimited",
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Unlimited",
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    },
+    {
+      "brand": "Virgin",
+      "scenario": "1_line_mobile_only",
+      "name": "3GB",
+      "price": "$39 per month",
+      "regular_price": "",
+      "data": "3GB",
+      "network": "",
+      "features": [
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "speed_features": [],
+      "roaming_features": [],
+      "international_text_features": [],
+      "calling_features": [],
+      "other_features": [
+        "Unlimited",
+        "Canada-wide"
+      ],
+      "roaming": {},
+      "roaming_classification": null,
+      "bundled_price": {},
+      "promotions": []
+    }
+  ]
+}
